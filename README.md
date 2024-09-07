@@ -4,7 +4,7 @@ Welcome to the repository for my MSc. Thesis and the accompanying presentation. 
 
 ## Code Repository
 
-The code developed as part of this project can be accessed at Logmind’s public repository: [ModuGPT Public Repository](https://bitbucket.org/ketjuni2/modugpt_public/src/main/)
+The code developed as part of this project can be accessed at Logmind’s public repository: [ModuGPT Public Repository](https://bitbucket.org/ketjuni2/modugpt_public/src/main/).
 
 ## Abstract
 
@@ -24,4 +24,4 @@ Evaluation results demonstrate significant improvements over baseline methods:
 - **Text-to-ES** achieved perfect accuracy in translating natural language to Elasticsearch queries.
 - **SmartSearch** showed enhanced performance in both syntactic and semantic components of queries.
 
-The results show that integrating GenAI into log analytics workflows is important, offering a powerful new approach to understanding and managing large-scale log data, aligning with the evolving demands of AI-driven IT operations
+The results show that integrating GenAI into log analytics workflows is important, offering a powerful new approach to understanding and managing large-scale log data, aligning with the evolving demands of AI-driven IT operations.
