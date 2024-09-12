@@ -1,4 +1,4 @@
-# Master Project
+# Enhancing Log Analytics with Generative AI
 
 Welcome to the repository for my MSc. Thesis and the accompanying presentation. This thesis was completed during my work at [Logmind](https://logmind.com/).
 
